@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testHost/static/css/main.d83db371.chunk.css",
+    "main.js": "/testHost/static/js/main.a6adda7f.chunk.js",
+    "main.js.map": "/testHost/static/js/main.a6adda7f.chunk.js.map",
+    "runtime-main.js": "/testHost/static/js/runtime-main.aa7adeba.js",
+    "runtime-main.js.map": "/testHost/static/js/runtime-main.aa7adeba.js.map",
+    "static/js/2.601d76bb.chunk.js": "/testHost/static/js/2.601d76bb.chunk.js",
+    "static/js/2.601d76bb.chunk.js.map": "/testHost/static/js/2.601d76bb.chunk.js.map",
+    "index.html": "/testHost/index.html",
+    "precache-manifest.c1b663f99e788309b4e879d717f6fd3e.js": "/testHost/precache-manifest.c1b663f99e788309b4e879d717f6fd3e.js",
+    "service-worker.js": "/testHost/service-worker.js",
+    "static/css/main.d83db371.chunk.css.map": "/testHost/static/css/main.d83db371.chunk.css.map",
+    "static/media/index.css": "/testHost/static/media/pepsiSpace1.800ed322.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa7adeba.js",
+    "static/js/2.601d76bb.chunk.js",
+    "static/css/main.d83db371.chunk.css",
+    "static/js/main.a6adda7f.chunk.js"
+  ]
+}
